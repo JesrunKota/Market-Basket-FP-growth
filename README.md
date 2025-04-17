@@ -115,7 +115,7 @@ Confidence: 81% | Lift: 3.12
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).  
+This project is licensed under the [MIT License](LICENSE.txt).  
 You are free to use, modify, and share this project with attribution.
 
 
