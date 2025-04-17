@@ -110,7 +110,7 @@ Low support → rare but powerful combinations
 
 Ideal for cross-selling at checkout
 
-🧠 Example Rule:
+Example Rule:
 Customers who buy "SET/6 RED SPOTTY PAPER PLATES" often also buy "SET/20 RED RETROSPOT NAPKINS"
 Confidence: 81% | Lift: 3.12
 
