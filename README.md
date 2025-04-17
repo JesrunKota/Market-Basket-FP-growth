@@ -41,13 +41,15 @@ Created a Year/Month column for trend analysis
 ## 📈 2. Time-Based Sales Analysis
 Q: When are sales the highest?
 
-![](images/Monthly Quality Trend.png)
+![](https://github.com/JesrunKota/Market-Basket-FP-growth/blob/master/Images/Monthly%20Quality%20Trend.png)
+
+
 
 Sales peak in November 2011, indicating holiday-driven purchasing
 
 Drop in December likely reflects fewer transaction days (year-end)
 
-![](images/Monthly Revenue Trend.png)
+![](https://github.com/JesrunKota/Market-Basket-FP-growth/blob/master/Images/Monthly%20Revenue%20Trend.png)
 
 Revenue follows a similar upward trend
 
@@ -56,7 +58,7 @@ Indicates stable pricing: growth is volume-driven, not due to price increases
 ## 🌍 3. Country-Based Analysis
 Q: Where do most sales occur?
 
-![](images/Top 10 Countries by quantity.png)
+![](https://github.com/JesrunKota/Market-Basket-FP-growth/blob/master/Images/Top%2010%20Countries%20by%20quantity.png)
 
 United Kingdom dominates with over 90% of total quantity sold
 
@@ -65,7 +67,7 @@ International opportunities exist but are limited in current data
 ## 🛍️ 4. Product-Based Analysis
 Q: What products contribute the most to revenue?
 
-![](images/Top 10 Best Selling Products.png)
+![](https://github.com/JesrunKota/Market-Basket-FP-growth/blob/master/Images/Top%2010%20Best%20Selling%20Products.png)
 
 Top products are gift bags, lunch bags, and decorative items
 
@@ -74,20 +76,20 @@ Top products are gift bags, lunch bags, and decorative items
 ## 👥 5. Customer Behavior
 Q: How loyal are customers?
 
-![](images/Repeated Customers.png)
+![](https://github.com/JesrunKota/Market-Basket-FP-growth/blob/master/Images/Repeated%20Customers.png)
 
 98.2% of transactions are from “repeat” customers
-⚠️ However, many of these may have only 2–3 total purchases
+However, many of these may have only 2–3 total purchases
 
-![](images/Distribution of Customer Purchase Frequency.png)
+![](https://github.com/JesrunKota/Market-Basket-FP-growth/blob/master/Images/Distribution%20of%20Customer%20Purchase%20Frequency.png)
 
 Distribution is right-skewed: most customers purchase only once or twice
-💡 Opportunity to re-engage one-time buyers
+ Opportunity to re-engage one-time buyers
 
 ## 💳 6. High-Spending Customers
 Q: Who brings in the most revenue?
 
-![](images/Top 10 customers by Total Spend.png)
+![](https://github.com/JesrunKota/Market-Basket-FP-growth/blob/master/Images/Top%2010%20customers%20by%20Total%20Spend.png)
 
 Guest users lead in total spend
 
@@ -96,7 +98,7 @@ Top customer IDs suggest repeat business from a few high-value accounts
 ## 🤝 7. Market Basket Analysis (FP-Growth)
 Q: What items are often bought together?
 
-![](images/Association Rule Mining.png)
+![](https://github.com/JesrunKota/Market-Basket-FP-growth/blob/master/Images/Association%20Rule%20Mining.png)
 
 FP-Growth revealed strong rules with:
 
