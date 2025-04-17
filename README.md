@@ -11,17 +11,18 @@ Segment customers by behavior
 Identify key product associations using FP-Growth
 
 ## Project Structure
-Market-Basket-Analysis/ 
-├── notebooks/ │ 
-               └── Market Basket Analysis Jes.ipynb 
-├── data/ │ 
-          └── Assignment-1_Data.csv 
-├── images/ │ 
-            └── *.png (all exported visualizations) 
-├── requirements.txt 
-├── LICENSE 
+```
+Market-Basket-Analysis/
+├── notebooks/
+│   └── Market Basket Analysis Jes.ipynb
+├── data/
+│   └── Assignment-1_Data.csv
+├── images/
+│   └── *.png (all exported visualizations)
+├── requirements.txt
+├── LICENSE
 └── README.md
-
+```
 
 ## 📊 1. Data Cleaning & Transformation
 Q: How was the dataset prepared for analysis?
